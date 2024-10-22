@@ -29,7 +29,7 @@ body {
 div.box {
     height: 100vh;
     width: 400px;
-    background-image: url('./door.png');
+    background-image: url('door.png');
     background-position: center;
     background-size: cover;
     background-color: #FFC07F;
